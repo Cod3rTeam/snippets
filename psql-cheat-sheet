@@ -1,1 +1,2 @@
 \dt <schema>.* - list schmes
+\d+ schema_name.table_name
